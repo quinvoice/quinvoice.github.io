@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1281 811.05">
+  <defs>
+    <style>.a{fill:none;}.b{clip-path:url(#a);}.c{fill:#3e3080;opacity:0.3;}.d{fill:url(#b);}</style>
+    <clipPath id="a" transform="translate(0 -90.14)">
+      <rect class="a" width="1281" height="799"/>
+    </clipPath>
+    <linearGradient id="b" x1="0" y1="444.68" x2="1281" y2="444.68" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3e3080"/>
+      <stop offset="0.2" stop-color="#473083"/>
+      <stop offset="0.54" stop-color="#61308c"/>
+      <stop offset="0.96" stop-color="#8a309a"/>
+      <stop offset="1" stop-color="#8e309b"/>
+    </linearGradient>
+  </defs>
+  <title>Landing background</title>
+  <g class="b">
+    <path class="c" d="M.44,198.54l284.13-32.09c2.6-.21,6.48-.5,11.19-.77,52.83-3,157-7.88,252,64.5C563.42,242.09,660.17,315.8,671,426.67c6.3,64.36-20.79,101.54,8,153.12,23.45,42.1,64.19,61,78.09,67.27,78.83,35.37,116.88-15.1,218.55-.16,95.34,14,107.59,61.69,196,69.36,71.29,6.17,131.44-18.85,169.43-39.53l9.47,87.15L75.39,901.19Q58.13,733.25,40.24,565.37,20.71,381.92.44,198.54Z" transform="translate(0 -90.14)"/>
+    <path class="d" d="M-.13,91.35,285.8,90.14c2.6.07,6.5.2,11.21.44,39.45,2,154.41,8.19,243.58,91.35,18,16.78,102.45,99.65,101.29,208.65-.7,64.66-31.64,98.7-8.65,153.09C652,588.05,690.46,611.28,703.6,619c74.56,43.68,117.83-2.39,217.29,23.45,93.27,24.24,100.3,73,187.4,90.13C1178.5,746.4,1241,728,1281,711.57v87.65L-1.52,798Z" transform="translate(0 -90.14)"/>
+  </g>
+</svg>

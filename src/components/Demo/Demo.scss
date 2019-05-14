@@ -1,0 +1,46 @@
+@import '../../style/common';
+
+.demo {
+  color: #fff;
+  background: #3e3080;
+  background: -moz-linear-gradient(left, #3e3080 0%, #8e309b 100%);
+  background: -webkit-linear-gradient(left, #3e3080 0%, #8e309b 100%);
+  background: linear-gradient(to right, #3e3080 0%, #8e309b 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3e3080', endColorstr='#8e309b',GradientType=1 );
+
+  h2 {
+    margin-bottom: 1.5rem;
+  }
+
+  &__gif {
+    max-width: 50%;
+  }
+
+  .btn {
+    margin-top: 4rem;
+  }
+}
+
+@include media-breakpoint-down(md) {
+  .demo {
+    &__gif {
+      max-width: 75%;
+    }
+  }
+}
+
+@include media-breakpoint-down(sm) {
+  .demo {
+    &__gif {
+      max-width: 100%;
+    }
+  }
+}
+
+@include media-breakpoint-down(xs) {
+  .demo {
+    p {
+      margin: 40px 0;
+    }
+  }
+}
